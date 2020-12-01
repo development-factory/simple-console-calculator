@@ -1,0 +1,13 @@
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.exe
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.deps.json
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.runtimeconfig.json
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.dll
+C:\Users\bogda\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\PrimulProiect.pdb
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.AssemblyInfo.cs
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.dll
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.pdb
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.genruntimeconfig.cache
+C:\Users\bogda\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\PrimulProiect.csprojAssemblyReference.cache
